@@ -48,3 +48,7 @@ except requests.exceptions.RequestException as e:
     print(f"Impossible de contacter le serveur pour enregistrer le score : {e}")
 
 print("\nMerci d'avoir joué !")
+
+
+
+"rrrrrrrrrrrrrrrr TEST POUR NOUVELLE BRANCHE ET COMMIT ET TT"
